@@ -1,0 +1,3 @@
+# Quests
+
+Simple quest tracking
